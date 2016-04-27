@@ -1,0 +1,20 @@
+<?php
+echo $hello;
+echo "<hr/>";
+echo $x;
+echo "<hr/>";
+echo $b;
+echo "<hr/>";
+echo $c;
+echo "<hr/>";
+echo "$c ส่งด้วยdouble qoute";
+echo "<hr/>";
+echo '$c ส่งด้วยsingle qoute';
+echo "<hr/>";
+echo" '$c'";
+echo "<hr/>";
+echo'"$c"';
+echo "<hr/>";
+echo $x * $b;
+echo "<hr/>";
+echo 5*3+5/5;
